@@ -1,0 +1,9 @@
+Geolocation test
+-----------------
+
+License
+-------
+
+MIT.
+
+
